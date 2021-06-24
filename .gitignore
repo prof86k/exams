@@ -1,0 +1,9 @@
+online_exams/online_env
+online_exams/db.sqlite3
+online_exams/onlineEXAPI/settings
+online_exams/online_examiner/__pycache__
+online_exams/onlineEXAPI/__pycache__
+online_exams/online_examiner/__init__.py
+online_exams/onlineEXAPI/__init__.py
+online_exams/online_examiner/migrations/__init__.py
+online_exams/online_examiner/migrations/__pycache__
